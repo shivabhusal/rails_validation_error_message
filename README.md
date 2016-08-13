@@ -12,4 +12,5 @@ A Rails plugin to display custom validation error messages in forms built using 
 - Compatible with JS validation plugins like `jQuery Validation` or `parsleyjs.org`
 - Compatible with Rails version > `3.0`
   - Ruby version > 2.0
+- **Convention Over Configuration**
 
